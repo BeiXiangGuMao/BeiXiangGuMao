@@ -10,3 +10,4 @@
 BeiXiangGuMao/BeiXiangGuMao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/BeiXiangGuMao/badge.svg)](https://hub.xerj.org/contributors/BeiXiangGuMao)
