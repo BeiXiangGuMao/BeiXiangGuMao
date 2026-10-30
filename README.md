@@ -61,8 +61,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=BeiXiangGuMao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeiXiangGuMao&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img height="158" src="https://stats.programcx.cn/api?username=BeiXiangGuMao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="stats"/>
+  <img height="158" src="https://stats.programcx.cn/api/top-langs?username=BeiXiangGuMao&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="top langs"/>
 </p>
 
 <p align="center">
